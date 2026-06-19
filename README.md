@@ -1,4 +1,4 @@
-# aisummit2026
+# TexasTechForge - Handson session setup instructions
 
 
 
