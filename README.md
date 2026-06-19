@@ -5,6 +5,8 @@
 ## 
 **For All Sessions**
 1. Required: Laptop with Chrome browser (Charged to sustain 3 hour)
+2. Optional: Download Sublime for notes
+3. ChatGPT account created (https://chatgpt.com/)
 
 ## 
 **For Beginner Session: AI for Everyone: Build Your Brand, Website, and Content Without Coding**
