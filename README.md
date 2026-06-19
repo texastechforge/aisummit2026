@@ -4,7 +4,7 @@
 
 ## 
 **For All Sessions**
-1. Required: Laptop with Chrome browser (Charged to sustain 1 hour)
+1. Required: Laptop with Chrome browser (Charged to sustain 3 hour)
 
 ## 
 **For Beginner Session: AI for Everyone: Build Your Brand, Website, and Content Without Coding**
