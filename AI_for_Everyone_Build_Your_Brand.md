@@ -51,7 +51,7 @@ I want to build a website for my wife that will showcase her professional and pe
 6. It will spin for few seconds and once it's stops, check the website
 
 ##
-**Voilà**   _("there it is" or "here you go")_  Your site is ready!
+**Voilà**   _("there it is" or "here you go")_  Your site is ready!  https://sadiaasif.lovable.app
 
 
 ##
