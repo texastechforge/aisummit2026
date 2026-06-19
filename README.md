@@ -1,4 +1,4 @@
-# TexasTechForge - Handson session setup instructions
+# Handson sessions setup instructions
 
 
 
